@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textView5"
+        android:background="@color/colorAccent" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="314dp"
+        android:layout_height="341dp"
+        android:id="@+id/textView6"
+        android:background="@android:color/holo_blue_bright" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="246dp"
+        android:layout_height="247dp"
+        android:id="@+id/textView7"
+        android:background="@android:color/holo_orange_light" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="157dp"
+        android:layout_height="134dp"
+        android:id="@+id/textView9"
+        android:background="@android:color/background_light" />
+
+</FrameLayout>
